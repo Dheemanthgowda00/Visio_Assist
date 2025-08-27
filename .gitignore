@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv310/
+.venv/
+venv*/
+
+# Environment variables
+.env
+
+# Large/binary files
+*.onnx
+*.pt
+*.so
+*.pkl
+*.tar.gz
+
+# VSCode settings
+.vscode/

@@ -1,0 +1,2 @@
+python - /home/raspberry/VISIOASSIST/venv310/bin/python
+earphone - 41:42:FF:54:11:F2 
