@@ -61,4 +61,38 @@ Visio_Assist/
 │── .gitignore                    # Git ignore rules
 │── README.md                     # Project documentation
 │── info.txt                      # Info / project notes
+```
+
+---
+
+## 🛠 Python Libraries / Dependencies
+
+- cv2 (OpenCV) – for image/video processing
+- subprocess – for running system commands
+- time – for time-related functions
+- requests – for HTTP requests
+- os – for operating system interaction
+- sys – for system-specific parameters and functions
+- json – for JSON encoding/decoding
+- sounddevice – for audio input/output
+- numpy – for numerical computations
+- scipy.signal – for signal processing
+- piper.voice (PiperVoice) – for TTS (Text-to-Speech)
+- speech_recognition – for speech-to-text
+- dotenv – for environment variable management (load_dotenv)
+- signal – for handling signals
+- datetime – for date and time operations
+- pytz – for timezone handling
+- smtplib – for sending emails
+- email.mime.text – for creating email content
+- yt_dlp – for YouTube video/audio downloading
+- secure_notes – custom module for secure note management (save_secure_note, load_secure_note, load_notes)
+- reminder – custom module for reminders (schedule_reminder, load_existing_reminders)
+- twilio.rest (Client) – for Twilio API integration (SMS/calls)
+- dateparser – for parsing dates from text
+- apscheduler.schedulers.background (BackgroundScheduler) – for scheduling tasks
+- cryptography.fernet (Fernet) – for encryption/decryption
+- vosk (Model, KaldiRecognizer) – for offline speech recognition
+- queue – for thread-safe queues
+
 
